@@ -22,8 +22,8 @@ namespace WrappedMaqueen {
      * @param rightSpeed is the desired speed for the right wheel ranged from -1 to 1 
      * @param e describe parameter here
      */
-    //% block setMotor()
-    export function setMotor(leftSpeed: number, rightSpeed: number): void {
+    //% block setMotors()
+    export function setMotors(leftSpeed: number, rightSpeed: number): void {
         let leftOutput = 0;
         let rightOutput = 0;
         //set the left Speed

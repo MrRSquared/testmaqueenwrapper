@@ -1,1 +1,1 @@
-WrappedMaqueen.setMotor(-1, 1)
+WrappedMaqueen.setMotors(-1, 1)
