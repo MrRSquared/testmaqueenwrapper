@@ -1,3 +1,1 @@
-basic.forever(function () {
-	
-})
+WrappedMaqueen.setMotor(-1, 1)
